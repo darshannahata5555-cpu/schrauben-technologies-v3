@@ -1,0 +1,6 @@
+:HL["/schrauben-technologies-v3/_next/static/chunks/33nx7-t2ghz4-.css","style"]
+:HL["/schrauben-technologies-v3/_next/static/media/08f7af508983ed18-s.p.16zifq7ruyhhb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/schrauben-technologies-v3/img/logo-mark.png","image"]
+:HL["/schrauben-technologies-v3/img/logo-wordmark-white.png","image"]
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"ce3h9MS_yEvDtzlo1Sqpy","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

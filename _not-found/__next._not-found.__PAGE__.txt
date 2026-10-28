@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/schrauben-technologies-v3/_next/static/chunks/0umf92h1sb77c.js"
+4:"/schrauben-technologies-v3/_next/static/chunks/2fsccagn42hn2.js"
+5:"/schrauben-technologies-v3/_next/static/chunks/1kk4ilp4z-27d.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[97367,["$3","$4","$5"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+15:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"wrap notfound","children":[["$","h1",null,{"className":"h1","style":{"marginBottom":28},"children":"This page isn’t here."}],["$","p",null,{"className":"lead muted","style":{"marginBottom":36},"children":"The link may be out of date. Our products, services and contact details are a click away."}],["$","div",null,{"style":{"display":"flex","gap":16,"flexWrap":"wrap"},"children":[["$","$Lc",null,{"className":"btn","href":"/","children":["Go to the home page",["$","svg",null,{"className":"hex","viewBox":"0 0 24 24","aria-hidden":"true","fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M12 2.6 20.2 7.3v9.4L12 21.4l-8.2-4.7V7.3z"}],["$","circle",null,{"cx":"12","cy":"12","r":"3.4"}]]}]]}],["$","$Lc",null,{"className":"btn btn-ghost","href":"/products/","children":["Explore Our Products",["$","svg",null,{"className":"hex","viewBox":"0 0 24 24","aria-hidden":"true","fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M12 2.6 20.2 7.3v9.4L12 21.4l-8.2-4.7V7.3z"}],["$","circle",null,{"cx":"12","cy":"12","r":"3.4"}]]}]]}]]}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f5f3"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Schrauben Technologies Pvt. Ltd. | Integrated Fasteners Expert"}],["$","meta","1",{"name":"description","content":"Schrauben Technologies is a leading industrial distributor and service provider, specializing in fasteners, high-precision machined components, and end-to-end supply chain solutions."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/schrauben-technologies-v3/img/logo-mark.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/schrauben-technologies-v3/img/logo-mark.png"}],["$","$L15","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$a"}},"a":"$@17","u":"$@18","b":"ce3h9MS_yEvDtzlo1Sqpy"}
+f:null
+18:true
+a:300
+a:C
+17:0
+8:"$undefined"
+16:"$undefined"
+10:"$undefined"
